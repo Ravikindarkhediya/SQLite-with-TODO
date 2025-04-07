@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo_with_sqlite
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SQLite-with-TODO
+Basic TODO app using SQLite
+>>>>>>> 8e2f4390fa4db5094e452e58a71dd85421524d8f
